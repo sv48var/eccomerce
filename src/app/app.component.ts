@@ -1,0 +1,131 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrl: './app.component.scss'
+})
+export class AppComponent {
+  title = 'ecom';
+  slides = [
+    {
+        "vidLibId": 25152,
+        "title": "ARCHANGEL FULL SERIES | Thriller Movies | The Midnight Screening-(Movie)",
+        "vidName": "VID_25152.mp4",
+        "description": "Washed-up historian Fluke Kelso, a specialist in Soviet studies, is attending a conference in Russia when he is approached by a former NKVD officer who offer.",
+        "tag": "ARCHANGEL FULL SERIES | Thriller Movies | The Midnight Screening-(Movie)",
+        "videoDuration": "02:03:57",
+        "thumbnail": "VID_25152_thumb.jpg",
+        "category": "[Movies]",
+        "userId": 178,
+        "uploadedTime": "29-May-2024 17:09:28",
+        "viewCategory": "trend",
+        "videoType": "premium",
+        "isCustomThumb": "false",
+        "userVideoStatus": 0,
+        "channelId": "43",
+        "categoryV2": "7"
+    },
+    {
+        "vidLibId": 25155,
+        "title": "NIGHT OF THE CAREGIVER Full Movie | Thriller Movies | The Midnight Screening-(Movie)",
+        "vidName": "VID_25155.mp4",
+        "description": "A caregiver and a sweet, elderly woman find themselves in grave danger as something demonic dwells in their home.Starring - Natalie Denise Sperl, Eileen Diet...\n",
+        "tag": "NIGHT OF THE CAREGIVER Full Movie | Thriller Movies | The Midnight Screening-(Movie)",
+        "videoDuration": "01:16:49",
+        "thumbnail": "VID_25155_thumb.jpg",
+        "category": "[Movies]",
+        "userId": 178,
+        "uploadedTime": "29-May-2024 17:21:29",
+        "views": 2,
+        "vidLike": 0,
+        "vidDislike": 0,
+        "vidShare": 0,
+        "downloads": 2,
+        "viewCategory": "trend",
+        "videoType": "premium",
+        "isCustomThumb": "false",
+        "secondsWatched": "3.2",
+        "lastUpdatedTimestamp": "01-Aug-2024 14:44:31",
+        "userVideoStatus": 0,
+        "channelId": "43",
+        "categoryV2": "7"
+    },
+    {
+        "vidLibId": 26846,
+        "title": "unbelievable OrcA moment -(Movie)",
+        "vidName": "VID_26846.mp4",
+        "description": "unbelievable OrcA moment by BBC Earth",
+        "tag": "unbelievable OrcA moment -(Movie)",
+        "videoDuration": "00:26:13",
+        "thumbnail": "VID_26846_thumb.jpg",
+        "category": "[Documentary]",
+        "userId": 11042,
+        "uploadedTime": "30-Jul-2024 12:24:17",
+        "views": 4,
+        "vidLike": 0,
+        "vidDislike": 0,
+        "vidShare": 0,
+        "downloads": 0,
+        "viewCategory": "trend",
+        "videoType": "premium",
+        "isCustomThumb": "false",
+        "userVideoStatus": 0,
+        "channelId": "11042",
+        "categoryV2": "11"
+    },
+    {
+        "vidLibId": 26067,
+        "title": "2024 Nissan X Trail review: Better than the spec sheet suggests | First Drive | @autocarindia1",
+        "vidName": "VID_26067.mp4",
+        "description": "The Nissan X-Trail has been a long time coming. Gavin D'Souza introduces you to what is Nissan India's new range topper and and tells you why the premium SUV makes for an interesting proposition. \n\nCameraperson: Naushad (+ official B Roll)\nEditor: Mohit Sharma\n\nSUBSCRIBE to Autocar India for the hottest automotive news and the most comprehensive reviews ► http://bit.ly/AutocarInd\n\nAutocar India is your one-stop source for test drive reviews & comparison tests of every new car and motorcycle launched in India. We also offer a great mix of other automotive content, including weekly news, motor show reports, travelogues and other special features. \n\nWebsite: http://www.autocarindia.com \nFacebook: http://www.facebook.com/autocarindiamag\nInstagram: https://www.instagram.com/autocar_india/\nTwitter: http://www.twitter.com/autocarindiamag\n\nNew car reviews ►http://bit.ly/ACI-NewCarReviews\n\nComparison tests ►http://bit.ly/ACI-Comparison\n\nNew bike reviews ►http://bit.ly/ACI-BikeReviews\n\nFeatures ►http://bit.ly/ACI-Features\n\n#autocarindia #xtrail #nissanxtrail #review",
+        "tag": "2024 Nissan X Trail review: Better than the spec sheet suggests | First Drive | @autocarindia1",
+        "videoDuration": "00:16:24",
+        "thumbnail": "VID_26067_thumb.jpg",
+        "category": "[Picks]",
+        "userId": 11041,
+        "uploadedTime": "23-Jul-2024 17:33:41",
+        "views": 9,
+        "vidLike": 1,
+        "vidDislike": 1,
+        "vidShare": 0,
+        "downloads": 20,
+        "viewCategory": "trend",
+        "videoType": "premium",
+        "isCustomThumb": "false",
+        "userVideoStatus": 0,
+        "channelId": "11041",
+        "categoryV2": "1001"
+    },
+    {
+        "vidLibId": 26068,
+        "title": "From sketch to prototype - Martin Uhlarik talks of the Tata Curvv design process | Autocar India",
+        "vidName": "VID_26068.mp4",
+        "description": "Tata Motors has just unveiled the production-spec Tata Curvv. In conversation with Sergius Barretto, Martin Uhlarik - VP & Head, Global Design at Tata Motors - talks of the design inspiration and the process of making the sketch a reality. \n\nSUBSCRIBE to Autocar India for the hottest automotive news and the most comprehensive reviews ► http://bit.ly/AutocarInd\n\nAutocar India is your one-stop source for test drive reviews & comparison tests of every new car and motorcycle launched in India. We also offer a great mix of other automotive content, including weekly news, motor show reports, travelogues and other special features. \n\nWebsite: http://www.autocarindia.com \nFacebook: http://www.facebook.com/autocarindiamag\nInstagram: https://www.instagram.com/autocar_india/\nTwitter: http://www.twitter.com/autocarindiamag\n\nNew car reviews ►http://bit.ly/ACI-NewCarReviews\n\nComparison tests ►http://bit.ly/ACI-Comparison\n\nNew bike reviews ►http://bit.ly/ACI-BikeReviews\n\nFeatures ►http://bit.ly/ACI-Features\n\n#autocarindia #tata #martinuhlarik #interview",
+        "tag": "From sketch to prototype - Martin Uhlarik talks of the Tata Curvv design process | Autocar India",
+        "videoDuration": "00:08:54",
+        "thumbnail": "VID_26068_thumb.jpg",
+        "category": "[Picks]",
+        "userId": 11041,
+        "uploadedTime": "23-Jul-2024 17:34:13",
+        "views": 12,
+        "vidLike": 3,
+        "vidDislike": 0,
+        "vidShare": 0,
+        "downloads": 23,
+        "viewCategory": "trend",
+        "videoType": "premium",
+        "isCustomThumb": "false",
+        "userVideoStatus": 0,
+        "channelId": "11041",
+        "categoryV2": "1001"
+    }
+]
+
+  slideConfig = {
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    dots: true,
+    infinite: false
+  };
+}

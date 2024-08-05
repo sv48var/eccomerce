@@ -1,0 +1,10 @@
+<div style="width: 100vw;">
+  <div class="shoe-list">
+    <div *ngFor="let shoe of shoes" class="shoe-card">
+      <img [src]="shoe.images_list[0]" [alt]="shoe.title">
+      <h3>{{ shoe.title }}</h3>
+      <p>{{ shoe.price }}</p>
+      <a [href]="shoe.url" target="_blank">Buy Now</a>
+    </div>
+  </div>
+</div>

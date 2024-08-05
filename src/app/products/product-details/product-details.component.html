@@ -1,0 +1,38 @@
+<app-my-project-loader *ngIf="loading"></app-my-project-loader>
+<div *ngIf="!loading">
+  <div class="product-detail-container">
+    <div class="product-detail">
+        <!-- <ngx-slick-carousel class="product-image" [config]="slickConfig">
+            <div ngxSlickItem  class="slide">
+                <img [src]="image.trim()" alt="Product Image">
+            </div>
+        </ngx-slick-carousel> -->
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" *ngFor="let image of productDetails.images">
+              <div class="carousel-item active">
+                <img class="d-block w-100" [src]="image.trim()" alt="First slide">
+              </div>
+            </div>
+          </div>
+  
+      <div class="product-info">
+        <h2>{{ productDetails.name }}</h2>
+        <div class="ratings-section">
+        </div>
+        <div class="price-section">
+          MRP: <p class="present-price">&#8377;{{ productDetails.price }}</p>
+        </div>
+        <div class="action-section">
+          <button class="add-to-cart-btn">
+            <i class="fas fa-cart-plus"></i> Add to Cart
+          </button>
+          <i class="fas fa-heart icon"></i>
+        </div>
+        <div class="description">
+          <h3>Description</h3>
+          <p>{{ productDetails.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
