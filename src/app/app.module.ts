@@ -14,7 +14,11 @@ import { MyProjectLoaderComponent } from './shared/components/my-project-loader/
 import { SlickCarouselModule } from 'ngx-slick-carousel';
 import { ShoesComponent } from './shoes/shoes.component';
 import { ShoeDetailComponent } from './shoes/shoe-detail/shoe-detail.component';
-
+import { MatCardModule } from '@angular/material/card';
+import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 @NgModule({
   declarations: [
@@ -32,7 +36,12 @@ import { ShoeDetailComponent } from './shoes/shoe-detail/shoe-detail.component';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    SlickCarouselModule
+    SlickCarouselModule,
+    MatIconModule,
+    MatCardModule,
+    MatButtonModule,
+    MatGridListModule,
+    MatProgressSpinnerModule
   ],
   providers: [],
   bootstrap: [AppComponent]

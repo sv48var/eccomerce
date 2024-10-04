@@ -12,30 +12,41 @@ export class ProductsComponent {
   shoes: any[] = [];
   loading = true;
   sortOrder = 'desc';
-  products:any[] = [];
-  csvurl:string = './assets/data.csv'
+  csvurl:string = './assets/data.csv';
+  products: any[] = []; 
+  filteredProducts: any[] = [];
+  showFilterMenu = false;
+
 
   constructor(
-    private route: ActivatedRoute,
     private csvreader:CsvreaderService,
   ) { }
 
   ngOnInit(): void {
-    // this.route.paramMap.subscribe(params => {
-      // this.gender = params.get('gender');
-      // this.fetchShoes();
-      this.getProducts(this.gender);
-    // });
+    this.getProducts();
   }
 
-  getProducts(gender:any){
+  toggleFilterMenu() {
+    this.showFilterMenu = !this.showFilterMenu;
+  }
+
+  filterProducts(gender: string) {
+    if (gender === 'all') {
+      this.filteredProducts = this.products;
+    } else {
+      this.filteredProducts = this.products.filter(product => product.gender === gender);
+    }
+  }
+
+  getProducts():any{
     this.csvreader.getProducts(this.csvurl).subscribe((result:any)=>{
-      console.log(result);
       this.products = result;
-      // this.products = result.filter((product:any) => product.gender == gender)
-      console.log(this.products)
+      this.filteredProducts = this.products; 
       this.loading = false;
     })
   }
 
+  addToCart(product:any){
+
+  }
 }
