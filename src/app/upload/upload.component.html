@@ -1,0 +1,69 @@
+<div class="video-upload">
+    <h2>Upload and Compress Video</h2>
+  
+    <div class="upload-container">
+      <input type="file" (change)="onFileSelected($event)" accept="video/*" />
+    </div>
+  
+    <div *ngIf="isLoading" class="progress-section">
+      <h3>Compressing...</h3>
+      <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+      <div class="progress-info">
+        <p>Progress: {{ progress }}%</p>
+      </div>
+    </div>
+
+    <div style="display: flex; gap: 20px;">
+        <div *ngIf="originalVideoUrl" class="video-preview">
+            <h3>Original Video Preview</h3>
+            <p class="progress-info">Original Video Size: {{ originalSize }} MB</p>
+            <video [src]="originalVideoUrl" controls width="320"></video>
+        </div>
+        
+        <div *ngIf="compressedVideoUrl" class="video-preview">
+            <h3>Compressed Video Ready!</h3>
+            <p class="progress-info">Compressed Video Size: {{ compressedSize }} MB</p>
+            <video [src]="compressedVideoUrl" controls width="320"></video>
+        </div>
+    </div>
+</div>
+  
+<!-- <div class="video-upload">
+    <h2>Video Upload and Compression</h2>
+  
+    <input type="file" (change)="onFileSelected($event)" accept="video/*" />
+  
+    <button (click)="uploadVideo()" [disabled]="!compressedVideo || isLoading">
+      Upload Video
+    </button>
+  
+    <div *ngIf="isLoading">Compressing video... Please wait.</div>
+  
+    <div *ngIf="compressedVideo">
+      <p>Video ready for upload!</p>
+    </div>
+
+    <div *ngIf="errorMessage" class="error-message">
+      <p>{{ errorMessage }}</p>
+    </div>
+</div> -->
+<!-- <div class="video-upload">
+    <h2>Video Upload and Compression</h2>
+  
+    <input type="file" (change)="onFileSelected($event)" accept="video/*" />
+  
+    <button (click)="uploadVideo()" [disabled]="!compressedVideo || isLoading">
+      Upload Video
+    </button>
+  
+    <div *ngIf="isLoading">Compressing video... Please wait.</div>
+  
+    <div *ngIf="compressedVideo">
+      <p>Video ready for upload!</p>
+      <h3>Original Video</h3>
+      <video [src]="originalVideoUrl" controls></video>
+  
+      <h3>Compressed Video</h3>
+      <video [src]="compressedVideoUrl" controls></video>
+    </div>
+</div> -->

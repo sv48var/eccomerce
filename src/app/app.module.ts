@@ -19,6 +19,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { MatGridListModule } from '@angular/material/grid-list';
+import { UploadComponent } from './upload/upload.component';
+import { MatProgressBarModule } from '@angular/material/progress-bar';
 
 @NgModule({
   declarations: [
@@ -30,7 +32,8 @@ import { MatGridListModule } from '@angular/material/grid-list';
     ProductDetailsComponent,
     MyProjectLoaderComponent,
     ShoesComponent,
-    ShoeDetailComponent
+    ShoeDetailComponent,
+    UploadComponent
   ],
   imports: [
     BrowserModule,
@@ -41,6 +44,7 @@ import { MatGridListModule } from '@angular/material/grid-list';
     MatCardModule,
     MatButtonModule,
     MatGridListModule,
+    MatProgressBarModule,
     MatProgressSpinnerModule
   ],
   providers: [],
