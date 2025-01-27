@@ -30,7 +30,7 @@ export class VideoCompressionService {
 
       await this.ffmpeg.run(
         '-i', fileName,
-        '-vf', 'scale=1280:720', 
+        '-vf', 'scale=1920:1080', 
         '-b:v', '500k', 
         '-preset', 'ultrafast', 
         outputFileName
