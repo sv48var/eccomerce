@@ -6,6 +6,7 @@ import { ProductDetailsComponent } from './products/product-details/product-deta
 import { ShoesComponent } from './shoes/shoes.component';
 import { ShoeDetailComponent } from './shoes/shoe-detail/shoe-detail.component';
 import { UploadComponent } from './upload/upload.component';
+import { CarouselComponent } from './carousel/carousel.component';
 
 const routes: Routes = [
   {path:'', component:HomeComponent},
@@ -14,7 +15,8 @@ const routes: Routes = [
   { path: 'products', component: ProductsComponent},
   { path: 'shoes', component:ShoesComponent },
   { path: 'shoes/:sku', component:ShoeDetailComponent },
-  { path: 'upload', component:UploadComponent }
+  { path: 'upload', component:UploadComponent },
+  { path:'carousel', component:CarouselComponent }
 ];
 
 @NgModule({

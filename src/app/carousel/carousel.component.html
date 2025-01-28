@@ -1,0 +1,13 @@
+<div class="carousel-container">
+  <button class="nav-button" (click)="previous()" [disabled]="currentIndex === 0">&#10094;</button>
+  <div class="carousel">
+    <div *ngFor="let item of visibleItemsList; let i = index" class="carousel-item" [class.expanded]="hoveredIndex === i" (mouseenter)="onHover(i)" (mouseleave)="onLeave()">
+      <img [src]="hoveredIndex === i ? item.hthumbnail : item.thumbnail" [alt]="item.title" [class.vertical]="hoveredIndex !== i" [class.horizontal]="hoveredIndex === i">
+      <div *ngIf="hoveredIndex === i" class="item-details">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.description }}</p>
+      </div>
+    </div>
+  </div>
+  <button class="nav-button" (click)="next()" [disabled]="currentIndex + visibleItems >= items.length">&#10095;</button>
+</div>

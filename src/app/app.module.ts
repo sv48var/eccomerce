@@ -21,6 +21,7 @@ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { UploadComponent } from './upload/upload.component';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
+import { CarouselComponent } from './carousel/carousel.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { MatProgressBarModule } from '@angular/material/progress-bar';
     MyProjectLoaderComponent,
     ShoesComponent,
     ShoeDetailComponent,
-    UploadComponent
+    UploadComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,

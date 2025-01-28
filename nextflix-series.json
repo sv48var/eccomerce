@@ -1,0 +1,2587 @@
+[
+    {
+        "year": 2015,
+        "shortName": "S1",
+        "longName": "Season 1",
+        "hiddenEpisodeNumbers": false,
+        "title": "Season 1",
+        "id": 80074246,
+        "seq": 1,
+        "episodes": [
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "Abducted by a Viking warlord after his father is slain in battle, young Uhtred adopts the Norse way of life until tragedy befalls his new family.",
+                "episodeId": 80085154,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3508,
+                "runtime": 3555,
+                "displayRuntime": 3555,
+                "watchedToEndOffset": 3404,
+                "autoplayable": true,
+                "title": "Episode 1",
+                "id": 80085154,
+                "bookmark": {
+                    "watchedDate": 1721621747302,
+                    "offset": 6
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdl_0iY_Ev3v1NGuM74-sPCSULFgeaJi1RUWE_bjRwKGLczWV4P68cMiw_A3_SNprFJWvAPtTjWBdtEIwcFwvja2o8jz8w_JPaWeOFnFU_vTm9n2lPekmJuu.webp?r=a30"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSAg7sIM1iIyoqbh-oLPyX2BBmH_-VAqlbNNn_jn6mCNixLgKpne_j5BaRi0WiNCwVFVHpv_tsI2WSh6fTPuj_7DUVXxX-kwbZKe5D15Y3mlYaktYyaxUlyskQ.webp?r=a30"
+                    }
+                ],
+                "seq": 1,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "Caught between his scheming uncle Aelfric and pitiless Viking warlord Ubba, Uhtred goes on the run and seeks out Alfred, the man who would be king.",
+                "episodeId": 80085155,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3489,
+                "runtime": 3536,
+                "displayRuntime": 3536,
+                "watchedToEndOffset": 3377,
+                "autoplayable": true,
+                "title": "Episode 2",
+                "id": 80085155,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 68020,
+                        "end": 106060
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 66020
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa3-49MgEXKl9ANzuFfJGXppw7ryjxEyKE78ZfFXgIIHrX7JMh9yvMod3qZHUGdCq51x6BtAQB4Rim3GNdCsQk-DMV5VSnG767lZTrxg3Fvn7uELN7FRaFWn.webp?r=816"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa07cxOcfZdMATw-AfKAhoVXNHdesV0SumQydp8xZK0NVn9vzfcpMhwa1OA8Bs8fY5eWob40cXk3y9g4zxObtciriCyD7ujDZVJSrPlhHbdss35Fwjli05WQQA.webp?r=816"
+                    }
+                ],
+                "seq": 2,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred allies himself with newly crowned Alfred, but his commitment to the nascent king jeopardizes his bond with Brida.",
+                "episodeId": 80085156,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3494,
+                "runtime": 3541,
+                "displayRuntime": 3541,
+                "watchedToEndOffset": 3396,
+                "autoplayable": true,
+                "title": "Episode 3",
+                "id": 80085156,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 62020,
+                        "end": 99979
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59980
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZfi2cxO1JODui5nhzrzqMtIwjbEoERf6Sv_ZhYXRGZVgLqFTFW-KLR0HuLaO2-3yQ2n7XDzcjJuJAkVtYmP7280UhXucDzrTpCL4lx8sSRHJiQ7GN_InSE8.webp?r=f4d"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaYh-D5tEJC9BGep9OvV2iEonLvWKtDq9V3c5glXDwPOgT235erpq_4gdNQqgsoHAjUmnkH9DrnQrhxqBQzGoKnyOsjgDL_-UEiwal1qArvHj8cmvTXRPIYcuw.webp?r=f4d"
+                    }
+                ],
+                "seq": 3,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "After Uhtred faces betrayal and falls into hostile hands, his Danish brother, Ragnar the Young, scrambles to spare his life.",
+                "episodeId": 80085816,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3398,
+                "runtime": 3445,
+                "displayRuntime": 3445,
+                "watchedToEndOffset": 3300,
+                "autoplayable": true,
+                "title": "Episode 4",
+                "id": 80085816,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 62020,
+                        "end": 100020
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59980
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb5rQiHWlbx0fip0fbzxnowBDN8NJ09LEGHQGhy-5bt7KoYfeknpTSR8kLdyZYhzevOK56wa3ptkmgFhUVTsD44tcgC9RW529lkDXlG4-OcXxJpa_JdfyDgH.webp?r=af1"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUz6AVz6iF3c4wKgj7wUVljIyztdMdZGKG2vlEjMNwpJt214rdowaHhPZjwLL5GDTtcX32roLhyVsh5lE5x-S6PbYdv54a7ytHqEypsn9lEVXffnL8ryZ-YNzw.webp?r=af1"
+                    }
+                ],
+                "seq": 4,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "After rescuing Mildrith, Uhtred joins the fierce battle of Cynuit and vanquishes a forbidding foe, only to have Odda the Younger claim the victory.",
+                "episodeId": 80085817,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3481,
+                "runtime": 3527,
+                "displayRuntime": 3527,
+                "watchedToEndOffset": 3369,
+                "autoplayable": true,
+                "title": "Episode 5",
+                "id": 80085817,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 61980,
+                        "end": 100740
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59940
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY3eKYl99yDP7WN_wibBLs-lez7Uxn-TketLXj58fbM1QNuQkNfqZX9PDBHB9bPbG46Adzib7-lMErnPdyj3WJawCpxy2Ur-XvPORlOQiERtOWz9xaUnegNu.webp?r=656"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdWSQSnuPWpMxdL_qLxfizpxGairmeT-992RpOaPalpsYgaaAT6Rngx8RWdXbyfEyCf-rzfeSH_MXZ6SSLXKfsiijLOTNvI-5fSuBhyRbpThaCbZ1hS9QtCRxQ.webp?r=656"
+                    }
+                ],
+                "seq": 5,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred catches the eye of a lovely pagan queen, and his band of raiders becomes mercenaries for a Cornish king. But he soon faces the fury of Alfred.",
+                "episodeId": 80085818,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3484,
+                "runtime": 3531,
+                "displayRuntime": 3531,
+                "watchedToEndOffset": 3387,
+                "autoplayable": true,
+                "title": "Episode 6",
+                "id": 80085818,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 61980,
+                        "end": 100740
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59940
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZxP-y5BzkM9PzhHrsWSWsxz4KFMlkmcO_CfQCl3Q_uiVyPlkbOYeWQVFWEMD5b7iipRblm_VsHPIbCnfzNtAoIYmN_d4zq9hb4X2Lfo3UYcbJUEev4jD4V6.webp?r=219"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdEui34eyTtgE-ekgQO4MDWU0o1Awb8o6BvvjOK0CxNNjo7lNYpgsHQ8BweqUDT2AM18xUZGswqhMz-vcbxnz1jz1pAeP_fwmZ0YzMysFkZzseuLjpbwLnlNqg.webp?r=219"
+                    }
+                ],
+                "seq": 6,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "Driven to hiding in the marshes after the Vikings invade Wessex, Uhtred and Alfred finally make amends and devise a plan for retaking the kingdom.",
+                "episodeId": 80085819,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3466,
+                "runtime": 3513,
+                "displayRuntime": 3513,
+                "watchedToEndOffset": 3358,
+                "autoplayable": true,
+                "title": "Episode 7",
+                "id": 80085819,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 62020,
+                        "end": 99979
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59980
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaVMkix8_0SATQ6HWg1zNHJcNn_aNE3xEXimodWX3eUwfKDI_RVzaI6e4WwEkkKIi41XNNB_1a2ewv0LMleShCmIHOCw0xHLjwVPR2m3_W6_xJ6F41jT9ZvI.webp?r=9f0"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfGe3_rudMPFAQ9plvxksfbHyTflzWf1Wg_X7UX7IsgLo7_DTMuo7VebVHB8aXZnFi41G4XsAuALZf13ZaPqKr0ft1KeXf1jHkaEWsjF4Cn2gWrNeMTJeiJaOA.webp?r=9f0"
+                    }
+                ],
+                "seq": 7,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1508610600000,
+                "end": 1838140200000,
+                "synopsis": "Calling upon Saxon forces to rally and drive the Vikings out of Wessex, Uhtred and Alfred gird for a decisive battle, but treachery awaits.",
+                "episodeId": 80085820,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3505,
+                "runtime": 3552,
+                "displayRuntime": 3552,
+                "watchedToEndOffset": 3372,
+                "autoplayable": true,
+                "title": "Episode 8",
+                "id": 80085820,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 62020,
+                        "end": 99979
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59980
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYTlATjsrRSiRux7Duqnq6lzhoaZoRsO90yInCWhqeJ5UuJmdxanCguYsqRu06vDKhf9QT2JhPeLjjOJWf0fCZdqB_9JYN06RlEWS_S4gsCOTGe2djugus3R.webp?r=eeb"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYhxpOb_S_oLvMpPQU_NLKbQSU5EXwoQUeOQfOyzr4OfDnLokExg3demjeo9RGwuzxSdkPXCJ-Z5EW8gc42viVVXy7KmYNewCR_5DVJP59Ltf5OFV7xR3ydAFQ.webp?r=eeb"
+                    }
+                ],
+                "seq": 8,
+                "hiddenEpisodeNumbers": false
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "shortName": "S2",
+        "longName": "Season 2",
+        "hiddenEpisodeNumbers": false,
+        "title": "Season 2",
+        "id": 80164754,
+        "seq": 2,
+        "episodes": [
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "Sent north by Alfred to ransom enslaved king Guthred, Beocca seeks help from Uhtred, who makes a new allegiance in his quest for vengeance.",
+                "episodeId": 80164467,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3386,
+                "runtime": 3446,
+                "displayRuntime": 3446,
+                "watchedToEndOffset": 3241,
+                "autoplayable": true,
+                "title": "Episode 1",
+                "id": 80164467,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 102460,
+                        "end": 140460
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 100420
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQRhk45kqRthlnpj6LTW-ct1JXxW64Mk7mTjiw2Ah7jGyDWE2r742bnRitpbvv2J8xy5dFmjaiBHBBr-6NFFiVDqcEiIVTvhDIkQGBYG0buqZqWL79O2a8rV.webp?r=603"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbzvV2ZRzeghMcI3XQ4Ek7Mr4foyGQH675I5CS4RZ5Hj0OZkxZozOAXfj4kuVC3_BbCwQbtXiDtKaKgdyPHUnX4MDavinw052bF4yJHDheaiFxd6IhoFD3e9UA.webp?r=603"
+                    }
+                ],
+                "seq": 1,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "The stratagems of Abbot Eadred play on Guthred's weakness. Uhtred rallies the men of Cumbraland to march on Eoferwic, but faces a cruel betrayal.",
+                "episodeId": 80164468,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3510,
+                "runtime": 3567,
+                "displayRuntime": 3567,
+                "watchedToEndOffset": 3398,
+                "autoplayable": true,
+                "title": "Episode 2",
+                "id": 80164468,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 58300,
+                        "end": 96300
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 56260
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeMniDYbcR5CFGsX7sznyaNZcrqhl5e7NvLd_x9ni5pp-1mg9e1H2h-382squd3coymwgIdlfxVvm1ad4PEiVkLmJ18nSpT9CMTC0T8umuoSrvUDE6HLnuhB.webp?r=0a3"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT2rDfx1OiRvX06CAW2t5kOz7chCtFN_TLmxHtU9SrOBuGJcsbtts72wCxKRUy1dGJwdRucrIkmVTpVjfM5o6ZgDxqVV-cLVjH_jNR6BGKS3RPTMC9yrM3qLTA.webp?r=0a3"
+                    }
+                ],
+                "seq": 2,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "Hild and Ragnar hunt for Uhtred, who lays plans for escape. Alfred eyes the kingdom of Mercia, and chaos erupts when Guthred's alliance crumbles.",
+                "episodeId": 80164469,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3513,
+                "runtime": 3568,
+                "displayRuntime": 3568,
+                "watchedToEndOffset": 3405,
+                "autoplayable": true,
+                "title": "Episode 3",
+                "id": 80164469,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 73100,
+                        "end": 111100
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 71060
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaRQEUKFUzGaMEdFSOS0aVfP21nAVo9bhzPJ1-J_bAcb_2iovBDWoNZ3Pcy4dSgWV5nRkbg8SKUyDtBDkPZcau70qvUbCgeFy4mjz2oCzuPgINL6mvvfIwmS.webp?r=4eb"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbuUNV8mlIbdZVfVyCG6i8NNPZ-3IhIGDvgoEo4K6zNYxLHPXixDswT6TAdF0kjFK0G8auWO_-XEujKpvQYkURkYzOLfpO3ecA9eA5NRC8K5brVsQbAmZjV5bg.webp?r=4eb"
+                    }
+                ],
+                "seq": 3,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "Dispatched to Northumbria, Uhtred walks a fine line between fealty to Alfred and assisting Ragnar's savage blood feud with Kjartan.",
+                "episodeId": 80164470,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3380,
+                "runtime": 3440,
+                "displayRuntime": 3440,
+                "watchedToEndOffset": 3237,
+                "autoplayable": true,
+                "title": "Episode 4",
+                "id": 80164470,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 72780,
+                        "end": 110740
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 70740
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQN2cBeKC54Rim-nPp_zGkY72wS-Tv2JXAwf7Oo6hkPktM6nqJsYtgKvLuICXPX3XxymKIdX0LXYzJ_IyBh0DyWl7pnUM0XTtT1e6H0R_kOV5ZV1zKMAt8Jj.webp?r=75f"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRc8msbYDvGqEXTua90kenX_7wGEPxtnD1SRWBR9mnya8hUNOTuM3r87TwajW658e0W995W0sYRn_pyohwNQp2jRVTrtrmNRkhIo39AFstoQRgqFsZwsY2VRgQ.webp?r=75f"
+                    }
+                ],
+                "seq": 4,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "After a season of peace, Uhtred receives a mystical call to follow his fate. Erik makes a cunning request, and Beocca navigates matters of the heart.",
+                "episodeId": 80164471,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3480,
+                "runtime": 3539,
+                "displayRuntime": 3539,
+                "watchedToEndOffset": 3367,
+                "autoplayable": true,
+                "title": "Episode 5",
+                "id": 80164471,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 363400,
+                        "end": 401360
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 61040
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfxbufXAfhCzLjF-ycqLLTHjadRAmcm1syUj-glmfhRSD-dfYuVykdqy5y2ZUUMHqwr4ff1W0jrYZQ_Whj89iTlX3-3K0sA-9226L-mgVA3pKQsGXRRUkSss.webp?r=c17"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb6qn-lfmeyCdaJJhXy5sLFxqFHd4uj2clBHjRi0VgP_uTyCLgivKAj2imLUSeZcr3zOObfdfkat6Rcml1KsIjU_yO3K2xG3pMwDwo7PN9XvCg_u6ei11JelZQ.webp?r=c17"
+                    }
+                ],
+                "seq": 5,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "As his distrust of Uhtred deepens, Alfred sends Aethelred to drive Erik and Sigefrid from London, but the young lord harbors ambitions of his own.",
+                "episodeId": 80164472,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3465,
+                "runtime": 3525,
+                "displayRuntime": 3525,
+                "watchedToEndOffset": 3342,
+                "autoplayable": true,
+                "title": "Episode 6",
+                "id": 80164472,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 65899,
+                        "end": 103820
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 63860
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSHeOGFa1vAma4KH8mcyhSavRnsciGguKVe9cGmG6_af4PWupr0tKBKlxZXS17Zotr5z2ac3jwqoCwN2fgThZNGYwwO9cnz0RcERN-l1bteCreqFKMP_m40v.webp?r=451"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ4ccdWZj4YE_U1HcC8ILdVjF10Rb36uEm5cc0wi5UhBrG6o9aIVZ1emnQe_QW1zUUy5mAW0Q7i3kPaQIY0EKn1qib56FDEVl9ZSRNzM21tLQqY0XHcpD9CAOw.webp?r=451"
+                    }
+                ],
+                "seq": 6,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "Aethelred faces humiliation after his blunder in London backs Alfred into a corner. Her loyalties shifting, Aethelflaed makes a dire appeal to Uhtred.",
+                "episodeId": 80164473,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3422,
+                "runtime": 3481,
+                "displayRuntime": 3481,
+                "watchedToEndOffset": 3315,
+                "autoplayable": true,
+                "title": "Episode 7",
+                "id": 80164473,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 73220,
+                        "end": 111179
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 71179
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSGQS-pGZcLBY4BxbeGbriC-ihf35F1858p3fQdlZOjiYnwWLnHv48oj_0u7QU63By_c-MeRZXXLdIMqAxQXBsNs1RQ1pw60QklamR2j2wsNgIR_amWSHC2b.webp?r=0ed"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABShxbTh5tyIH1MbsEEmSaBP_9sIehF4qQygiOZacAODFf_KEtCKCvLQ6JNoAkiBVQCFAutg-xF_GoAwWerS6WkIcZbKDV1Aa9jbXo46P80kt5So3M83uCds9Vw.webp?r=0ed"
+                    }
+                ],
+                "seq": 7,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1535740200000,
+                "end": 1838140200000,
+                "synopsis": "Odda defies Alfred to coerce the king into war. Uhtred conspires with Erik to rescue Aethelflaed, forcing a fateful confrontation with Sigefrid.",
+                "episodeId": 80164474,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3511,
+                "runtime": 3566,
+                "displayRuntime": 3566,
+                "watchedToEndOffset": 3408,
+                "autoplayable": true,
+                "title": "Episode 8",
+                "id": 80164474,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 61620,
+                        "end": 99619
+                    },
+                    "recap": {
+                        "start": 0,
+                        "end": 59580
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbLPIGHfOFOBeJHBO3vnMPZvrJ2ua9l0RKi28HM4PCSEqF7EI8lI09PkkOYeqIQVQaoPA_xE-1DEW-8xhfOve8hgU_Vna3PDTqP73ucFHgQF-AnqIW979r_r.webp?r=bd7"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe3KY6SrJNLS3PCijlLarM90f-GU6M4wmv6LX1cTXFRIl3llUd-JJKI6ot0Dh3Xo0dhsZOyjNjFKf4M6_HQIggF89KbZAuGgdpZSDODrR_SdZ-lOVzxN208Y0A.webp?r=bd7"
+                    }
+                ],
+                "seq": 8,
+                "hiddenEpisodeNumbers": false
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "shortName": "S3",
+        "longName": "Season 3",
+        "hiddenEpisodeNumbers": false,
+        "title": "Season 3",
+        "id": 80223909,
+        "seq": 3,
+        "episodes": [
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "His health failing and fearing for his legacy, Alfred sends Uhtred to confront a new threat: fierce Danish warrior Bloodhair and his sorceress, Skade.",
+                "episodeId": 80223754,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3240,
+                "runtime": 3297,
+                "displayRuntime": 3297,
+                "watchedToEndOffset": 3105,
+                "autoplayable": true,
+                "title": "Episode 1",
+                "id": 80223754,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 421960,
+                        "end": 459920
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 78120
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYQq4Bh5QqABZcOsTE0TX-mql5Skk0q81ifAywrteSqS0rZAj5fvQjRIaGWmHrTIDjiJHmFB4W3Q7PMcCvmXaTJMiEmQzu_AICwdYDxuUx65L2E79ZvX4ICp.webp?r=374"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSlYdeezwSvG0UdCvMQ_MnfzqvnnwrXgJ_6X6ag1eT7VFmEX2Pmj89veUfMGASkMUrKKESB2T2IlKscC-KgSbA8C-CFKgg_ViaHl6kJa537T9UboRFD08GrteQ.webp?r=374"
+                    }
+                ],
+                "seq": 1,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "Falling afoul of Alfred, Uhtred flees north to his brother, Ragnar. His eye on the throne, Aethelwold begins assembling an alliance to strike Wessex.",
+                "episodeId": 80242906,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3104,
+                "runtime": 3160,
+                "displayRuntime": 3160,
+                "watchedToEndOffset": 2991,
+                "autoplayable": true,
+                "title": "Episode 2",
+                "id": 80242906,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 77619,
+                        "end": 115619
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 75580
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaO1rrbFSXAzAFncWDDCgmytI5rDzbsB9e4LiI8g7-DCmyt0274g7fhWOdOsRYRYHbnPPPXAAEzq_c8RsJt9giDWwHrVwI6wBZWRwL_Q5xYCX4yi2JmOodZ6.webp?r=68f"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZhzGGc6XDugZ_5TopQKFtJx64D4d0D6WDJQLfCs-iDsclqBGUghnN9TPJ38UG2_IOn4sJGE2PRPRSQ6F5-TonH0IWuzAqO9h04pyZqKCwvg6OJGenFqL2d0Gg.webp?r=68f"
+                    }
+                ],
+                "seq": 2,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "Bloodhair and Aethelwold try to coax Uhtred into their alliance against Alfred. Fearing for her life, Aethelflaed turns to Father Beocca for aid.",
+                "episodeId": 80242907,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3098,
+                "runtime": 3155,
+                "displayRuntime": 3155,
+                "watchedToEndOffset": 2994,
+                "autoplayable": true,
+                "title": "Episode 3",
+                "id": 80242907,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 71020,
+                        "end": 109020
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 68980
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUItYyn5qjOdAJlsd5KJuyOQ4M6-bimf4wcSXnYjnNKB4wUNdV49nHTBZZec8vYjImiccOJ3emMTl6iQz3LiLCKttvkDiPUW-YKKGyYuh8LbLwrqvl9FmFV4.webp?r=990"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUPltkFKjbJ5SxKz9IuyeJ_41l1DxOLnL9fF58Pczi1vxdMe-f46JNhSNYhuMzHbJEm_JIOKTXxn4ClmLIF7NDhGAEKGTcc7j-aFqFcffzfDQ_9U1MtfSZG8EA.webp?r=990"
+                    }
+                ],
+                "seq": 3,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred turns his attention to Aethelflaed's plight. Alfred forces Edward to face his duty. Ragnar's army marches but traitors emerge from within.",
+                "episodeId": 80242908,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3101,
+                "runtime": 3157,
+                "displayRuntime": 3157,
+                "watchedToEndOffset": 2994,
+                "autoplayable": true,
+                "title": "Episode 4",
+                "id": 80242908,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 73420,
+                        "end": 111460
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 71380
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWQRa4UMzb8IK2iZtrmDImw_XR7qV52KVNAT0jhCD1tNiI-Uy2WriVuEyrWTG65K_oRymaI8rQaJDu-TRZYUByrKBPDf9OD1jhskR27zN0mHifKRG3lshj8F.webp?r=1e3"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYc3yO3zpNy_9xFcwbaJHzdNEsUdCL1IHJQL5q3OWCBPJ0rl0w_p_txEp_qItZ7t3XgUS2by5eAY2gLlrDFG0fJk-SzBipJDNdGp8eXktMvzxAuW1cdxGIJE3g.webp?r=1e3"
+                    }
+                ],
+                "seq": 4,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "A deadly betrayal threatens to splinter Ragnar's army. Uhtred forms a cunning battle plan and finds an unexpected ally in young Edward.",
+                "episodeId": 80242909,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3127,
+                "runtime": 3182,
+                "displayRuntime": 3182,
+                "watchedToEndOffset": 3020,
+                "autoplayable": true,
+                "title": "Episode 5",
+                "id": 80242909,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 335480,
+                        "end": 373600
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 70400
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQVzG-JJT5Yj7EY6eJGKmKFQEgPKci-NtO2E-8LbvkWsgGMfBEGghg5yHzAuOU0-A-prgJUAaTBPhehbYr1A59ai14EFPowpO8lm2MWJUEu4B5v1YSwGqDd5.webp?r=131"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVMUGEVVGhvAzlRzWumRRZXM8PEpwM769ba9SdSuCnpgtyXpOj8K5Y3-SaV8ZsTScR_wZJCprfaGwKhReLCNM7WLyW7jOmUyyhEoMAICoJUn3sw63ID_JnwRFw.webp?r=131"
+                    }
+                ],
+                "seq": 5,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "Edward makes a kingly decision. Alfred lays plans for his son's future reign. Aethelwold faces a treacherous task. Uhtred and Brida search out a seer.",
+                "episodeId": 80242910,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3123,
+                "runtime": 3179,
+                "displayRuntime": 3179,
+                "watchedToEndOffset": 2981,
+                "autoplayable": true,
+                "title": "Episode 6",
+                "id": 80242910,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 270000,
+                        "end": 308040
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 105640
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc32ViYchwwvcsrag1q-LFhA1ckQPAUOEonSyBZc9qQRrRnGDtpahf1IITbF8SV3Itj8Rr04UKJL34of5tiXGDAIVml5izlIMiDPPB9xp8RT8WRkShWkuOS1.webp?r=e85"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRywi0Lgu-su4_GdOprb_1omLyhKT50gvPbItabtsCpSjuHgI4oyH0SbsFhhlNZDTZxXFXVR5B-FiUc4lG9vBJRQp3vpCX-bpatux5z-i7bJxSin3u9BW9JgFw.webp?r=e85"
+                    }
+                ],
+                "seq": 6,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "A message from Uhtred and the machinations of Skade exploit divisions among the Danes. His health failing, Alfred wrestles with Aethelwold's fate.",
+                "episodeId": 80988302,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3292,
+                "runtime": 3349,
+                "displayRuntime": 3349,
+                "watchedToEndOffset": 3172,
+                "autoplayable": true,
+                "title": "Episode 7",
+                "id": 80988302,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 84060,
+                        "end": 122060
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 82020
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWSu5XWzWvzWempt2mGlEBO2wXczSj36Yht7Y3Yi_6FUC3GbJ0aL60rpnFp6H-_5hztvPBITE0SqdhUXxnRpFj1m5G6dxUqxsOBymT8p0aoOtlEMCPlGe9le.webp?r=cea"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSXL1YeuLCpTpxlIkU-3EEjEP8LfQD__1HZkkz26CpGcrFqYXNopm1azYlMh5bZhrc6RBHXshIaaxjUrFIUknUROOwUxML0jbJCbBVGPu6gZllXgUcYxPB34qQ.webp?r=cea"
+                    }
+                ],
+                "seq": 7,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred risks returning to Wessex to fulfill his vow to Brida. As the royal wedding approaches, Aethelwold spreads discord from the shadows.",
+                "episodeId": 80988303,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3082,
+                "runtime": 3138,
+                "displayRuntime": 3138,
+                "watchedToEndOffset": 2922,
+                "autoplayable": true,
+                "title": "Episode 8",
+                "id": 80988303,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 125140,
+                        "end": 163100
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 123100
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ4o6UgEot8oUPiGhEx3WQP2Pmv06IzD4UdIKWmTDpBKXiv485GNmoGuoEyP3mTheTogMxTKh7chGLliKKX8fWZw99ue8wZka2Q3eFkdGTsj-1xzQDSEOYrm.webp?r=bc5"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSQwyxLgbOtLH8muQh8YQCocj5nTnNGU2py64eOmUKYShxBZAcYNiYkG8wAum34qJvAx1_-yt6ynSdinjywBkT69ZBytS5FCRqBJdkDw7KC5s6AkmMDN6V6TLw.webp?r=bc5"
+                    }
+                ],
+                "seq": 8,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "At the end of his days, Alfred takes Uhtred into his confidence about his plans for Edward's uncertain future, but Aelswith charts a different course.",
+                "episodeId": 80995608,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3161,
+                "runtime": 3216,
+                "displayRuntime": 3216,
+                "watchedToEndOffset": 3025,
+                "autoplayable": true,
+                "title": "Episode 9",
+                "id": 80995608,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 434600,
+                        "end": 472600
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 102520
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTF07fvDEb8IYWxD2giZtG7t6KuA7KTPZdzRxZMBijGJ3WeSouzyK1LZ5sEWgPhu19SXFRIeIS1ItwdrX9hKir70-t4rUxF3yIhDOoHD4iAVo0F_nclbzugc.webp?r=b6c"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ9JEBwKiPIqfRqdMpf54TczLDZVTxnBLUQAD9CsXEcDyvlABniNhyowW3UESnS9X_jQFkAIV4anpdUxqgIw7fhuScK5-1rK1aJaZlGjxHaqxlh0AbV6jL5mwQ.webp?r=b6c"
+                    }
+                ],
+                "seq": 9,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1542614400000,
+                "end": 1838140200000,
+                "synopsis": "As a climactic battle with the Danes draws near, untested Edward faces dire decisions about the fates of Uhtred, Wessex -- and England.",
+                "episodeId": 80995612,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3102,
+                "runtime": 3157,
+                "displayRuntime": 3157,
+                "watchedToEndOffset": 2968,
+                "autoplayable": true,
+                "title": "Episode 10",
+                "id": 80995612,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 94740,
+                        "end": 132740
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 92700
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVQb_0CaYih7DOKnEV9tnnZ2HWdMWvxKP3EI7m_7eloqGzacFoVObqDYcKVwIBD0S6Px_ibsak3EglV1e5XPQU4naIOJvG2Xo-zBZQAFciqhkgkfAL1jxM6-.webp?r=bad"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVaD2xTIMVvwFj5UedPHBxCbsRRgW9-ahdFaDpiHpBEIJX3TFdJAF-ekjvtj647e2IVHlhminUm0ksdeZpOB2K8wt9NaNhAU2P-5SDZaxjpdqdJ2iORv13CUyQ.webp?r=bad"
+                    }
+                ],
+                "seq": 10,
+                "hiddenEpisodeNumbers": false
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "shortName": "S4",
+        "longName": "Season 4",
+        "hiddenEpisodeNumbers": false,
+        "title": "Season 4",
+        "id": 80226530,
+        "seq": 4,
+        "episodes": [
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred receives news that Bebbanburg's defenses have been weakened by Scottish attacks and plans to seize his birthright, but Edward refuses to help.",
+                "episodeId": 80226289,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3309,
+                "runtime": 3363,
+                "displayRuntime": 3363,
+                "watchedToEndOffset": 3114,
+                "autoplayable": true,
+                "title": "Episode 1",
+                "id": 80226289,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 458620,
+                        "end": 496580
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 137100
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW-RGtQ7bHg3hurDpqaJJYHdsYO64sRjvPVgR-rWYgVPCx6xWbNFshoZx-MbPWG0S9do3pgZNK_-uNSVkdkSI7Fa3q3rn7Z7tnl3uJ0lCMPrZxU7U43X4EF9.webp?r=d72"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQztNGaZ4FVfzosZZcE3IykwAfAPVR_P1HJxQ6Os2bPpANQbSHl7Tq6QtIJY8EXfdqYrJNHOIvm1kd2rFmmrwzmDnFyyhcSB7q1PmK9aCxYYzykK2MTg7GEFHw.webp?r=d72"
+                    }
+                ],
+                "seq": 1,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "As Uhtred and his men draw closer to Bebbanburg, prodigal son Wihtgar returns with some tricks up his sleeve. News of Cnut's treachery reaches Wessex.",
+                "episodeId": 81012194,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3304,
+                "runtime": 3357,
+                "displayRuntime": 3357,
+                "watchedToEndOffset": 3159,
+                "autoplayable": true,
+                "title": "Episode 2",
+                "id": 81012194,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 406820,
+                        "end": 444859
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 105539
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRyI8ejywu-pzlHLRnf-gcdvIdThsGqhHetjYWUo2NrHxd_Ty_FAG8T8bcusIUj_Yj259p5BmsyrPf5enAvkJcSNr8YFSCj2SsLwkqYk7WvYy-9EFgu5ySuV.webp?r=852"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdy2ezrec3fl1Ynm0kBnMPLQ-NgHrNCQXd4JBXP-rDZ0bh4WqMeQKXTltCBgzxp81RIjgAsGNWX1-7Eu1KD1ySWpvQbYNf4mFMPnEa7T9Y-1-qcML_-zfk-SbA.webp?r=852"
+                    }
+                ],
+                "seq": 2,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred suffers an unbearable loss in his attack on Bebbanburg but takes some valuable captives during his retreat south. Aethelflaed prepares for war.",
+                "episodeId": 81012195,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3218,
+                "runtime": 3270,
+                "displayRuntime": 3270,
+                "watchedToEndOffset": 3073,
+                "autoplayable": true,
+                "title": "Episode 3",
+                "id": 81012195,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 454299,
+                        "end": 492260
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 99259
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR7E2RfYHVlWXHnfnZGVvBQCiqbMeGSZn36qn1Y67kA5a7YW-GY-Oi-TsH4ctFln-igiTPkqfgTiIWvzHmEN_cuistc9_7hsPkm-Lh3R0AxEphldSysTsu9u.webp?r=453"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbgi3L1xnPOsaseLydYGtqGNGic908ici6OOIURXQygAKlDrObNbotIdrhYexy4b833W1qA8D2A_balhyNF1hYvPrdWhC-mWrKyHjmIfhuGM4brPv9T6wo-1Ag.webp?r=453"
+                    }
+                ],
+                "seq": 3,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Hoping to be joined by Edward's troops, Aethelflaed and Uhtred ally with the Welsh to face Cnut's thousand-warrior army at the Battle of Tettenhall.",
+                "episodeId": 81012196,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3044,
+                "runtime": 3096,
+                "displayRuntime": 3096,
+                "watchedToEndOffset": 2901,
+                "autoplayable": true,
+                "title": "Episode 4",
+                "id": 81012196,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 426500,
+                        "end": 464460
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 101460
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABen3hbHN3oM5kc4wuGRiHQ2VzLd2Pj1vsp97yQfjmYTvtRykWDNR2SSyK9FA58_0i56aEFnwMTAND8fCKxoiWFXqyFVKGVlrVPGnfy94q3WxTsO4jtiIYJpW.webp?r=1de"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaC2cq8CmlNIsTPdUF5ZLeGXdcAoFyV4HatUxyT0afhkZIwZea85PjEWFYHdxR86Ya10W5z20Co4tygiKcdXBAJvBd7jT23zYuK4-x_5Q7IvMNOKAFJZY-J6jw.webp?r=1de"
+                    }
+                ],
+                "seq": 4,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "A repentant Aethelred lingers near death while his ealdormen vie for control of Mercia and Edward uses his niece Aelfwynn as a bargaining chip.",
+                "episodeId": 81012197,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3246,
+                "runtime": 3300,
+                "displayRuntime": 3300,
+                "watchedToEndOffset": 3128,
+                "autoplayable": true,
+                "title": "Episode 5",
+                "id": 81012197,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 83300,
+                        "end": 121259
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 80780
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX72-mnD25zJthHazdZuahwqOWb3Iql1vg86xvQ6xVmie7SIaoxYXcU8CPjvT0Gv9FBX2LXqHEwnXFuObXquP8yq23qdhnaDHwRRbxELWDKKV8MGhlwTbcKd.webp?r=8df"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTwIFwmoOb_5qbxsyQh0f7QFCvqwhdBMtV9sxPs9pVniIGTXhIQ_1UUyOZ1twTCJ118jo67W2Ld66MB9Inu5tSv7FrLbWEL8PxYa-DAZFyCSTN-3_FhjY8rTTg.webp?r=8df"
+                    }
+                ],
+                "seq": 5,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Eardwulf and his men pursue Uhtred's party as it flees through a countryside ravaged by disease. Tensions rise between Edward and the Mercians.",
+                "episodeId": 81012198,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3136,
+                "runtime": 3190,
+                "displayRuntime": 3190,
+                "watchedToEndOffset": 3025,
+                "autoplayable": true,
+                "title": "Episode 6",
+                "id": 81012198,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 77899,
+                        "end": 115860
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 75460
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRzpPQCSAscoRu-UQzSHvsYTOfyR2tEx4763w5LEWK5qe55odxZInYXf91pyC1yl9VmarZzY2utV4mlZVCfrPQYFnubcRZqst89F7jhmtBotJ--frBKsxM7s.webp?r=924"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUHB9sS96xbUIoLS-tBUPzc4-E-GFRTev6vb4_YMeaV6Wqv9hMnSzx4Sng4vGhhD3hoJfVpGqi8bCFpKtSu7ATmhMvHSRBVASx4QELm2UWtdx6fRRZ02gPUYoQ.webp?r=924"
+                    }
+                ],
+                "seq": 6,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Aelfwynn suffers from the sickness sweeping the land. Edward proposes an unexpected path forward for Mercia. Brida is freed by Cnut's kinsman.",
+                "episodeId": 81012199,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3065,
+                "runtime": 3118,
+                "displayRuntime": 3118,
+                "watchedToEndOffset": 2938,
+                "autoplayable": true,
+                "title": "Episode 7",
+                "id": 81012199,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 92460,
+                        "end": 130420
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 90300
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU2YZzLu1go-fdE2gNbn9ZyQM_Adgm6Cy2m9AeWiGCkR-q35ZWg4ForL9PpoDTf49Y_jtzmYGjXKAFZDiPGyMr7xADRzI97uEIssKXOheCfGfWvbaOtJ-iY3.webp?r=874"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABULnPvMsocDMeZMH-djZhXBAp0FiPx4UoM-61FPrUGNhu9ozc_VqYGLwtBpCwXbuEktZ7RsXydMpjxsG9uHOnniQtqAIStNeiW0CGEe2FyQWRdoi-mbFSLlonw.webp?r=874"
+                    }
+                ],
+                "seq": 7,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Uhtred reluctantly prepares to take power in Mercia but secretly formulates an alternate plan. Brida joins the Danes in attacking the Welsh.",
+                "episodeId": 81012200,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3004,
+                "runtime": 3057,
+                "displayRuntime": 3057,
+                "watchedToEndOffset": 2866,
+                "autoplayable": true,
+                "title": "Episode 8",
+                "id": 81012200,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 209660,
+                        "end": 247620
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 98740
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdrgX4NZZvsRY_4zi2noSG_YrntsLdyQ7AeUxYy7-RA6Ka2uKko2QS_s1b-S2qvYn0aIppcmXDAd2G6G5UiBzqt6ZyhOKqSUQAbDGszXvhIPPkV1jQg97jJ4.webp?r=995"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcPR_US4JreSaqYySECsYbOmmRH58jUvvd_7NjPJwixruQVps82j7M91YFPy7W8B5DnvwkAZj94s1RGBFa7I0MLZZgK69FmQn8TkolVLcCO9jbUSE94tw3e0Xg.webp?r=995"
+                    }
+                ],
+                "seq": 8,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "The Danes under Brida and Sigtryggr sack Winchester, guided by the traitor Eardwulf. Haesten ambushes Uhtred's party and seizes valuable captives.",
+                "episodeId": 81205936,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3108,
+                "runtime": 3162,
+                "displayRuntime": 3162,
+                "watchedToEndOffset": 2976,
+                "autoplayable": true,
+                "title": "Episode 9",
+                "id": 81205936,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 443900,
+                        "end": 481859
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 95940
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbmjCs_NOU2-OEWVbNG6vkwRCNoWdm-6lml7SfRUnZ2EBlAThA_Lc_QVROz3EJD42lpWKylVinZw4Z4XG_fnWIyjsqXpF39cbva9x7UZ4KXA9HKGhZiD5XfQ.webp?r=3ae"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUr4-InljL96julaRuaFbHl8EoJApAxu5BY8s1GwVs7XqLv1GQnAYIkGTOGC8wgxDPh5vzsXC6r5TxDmDcAs0gxZvapahne4d4qtsV9tQRHO0eKX4nS0E-T_9g.webp?r=3ae"
+                    }
+                ],
+                "seq": 9,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1587884400000,
+                "end": 1838140200000,
+                "synopsis": "Edward besieges Winchester as he awaits Aethelflaed's reinforcements, but Uhtred isn't convinced that conquest is really Sigtryggr's ultimate aim.",
+                "episodeId": 81205937,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3274,
+                "runtime": 3327,
+                "displayRuntime": 3327,
+                "watchedToEndOffset": 3153,
+                "autoplayable": true,
+                "title": "Episode 10",
+                "id": 81205937,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 290340,
+                        "end": 328219
+                    },
+                    "recap": {
+                        "start": 5000,
+                        "end": 78860
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZwXLs1l1Hgy4Z3Ps_FUVmOB-D3U6IMIb0ob5rByf-f_pFxvYgvJX1fDClHKuc36DpDXQGEeG99Krs0yKdM59VyIg5bE8_Pl7iF6cqhKUlHWmypE-9oTKmnq.webp?r=473"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYhvdojSmzzilz-nCeYm5pgQSqaatrtxt65TLN2cGpCkWreCDzothKAjQhXsMnRftYnH93GmIT0BR9EKlR843vpJye9oqK4AF56XM1tzSZllsfs6YhEyHCPNfw.webp?r=473"
+                    }
+                ],
+                "seq": 10,
+                "hiddenEpisodeNumbers": false
+            }
+        ]
+    },
+    {
+        "year": 2022,
+        "shortName": "S5",
+        "longName": "Season 5",
+        "hiddenEpisodeNumbers": false,
+        "title": "Season 5",
+        "id": 81341713,
+        "seq": 5,
+        "episodes": [
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Ill omens and border raids make Uhtred extra-vigilant at his northern outpost. King Sigtryggr is visited by his notorious brother Rognvaldr.",
+                "episodeId": 81341725,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3160,
+                "runtime": 3263,
+                "displayRuntime": 3263,
+                "watchedToEndOffset": 3002,
+                "autoplayable": true,
+                "title": "Episode 1",
+                "id": 81341725,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 410620,
+                        "end": 448539
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 122259
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYCMUN_kDstZDklIHAP5qio71_vwM1pAli2VJmKhhRxnfOwlTi0grGXFENGRlQPEAUhADZUUzWg7_R8lam_yklH6AcLABDcoiyg4-qUt5V2PX47mjRkxDF7J.webp?r=cba"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWq-IksM5tD8R9ZSt3VIu2vATrDD9rf3z3aZgRui3eeV8jtaMfkm6sXjmfj1SObAWVvb-bqb4yQkU580jCw7orcFy4hvlBkHj37iamB-pVdhfnnrXJSmwXiWtw.webp?r=cba"
+                    }
+                ],
+                "seq": 1,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "A betrayal at Eoferwic sends Sigtryggr in search of aid, while Uhtred begs Aethelflaed for military support she cannot give. Edward meets a new ally.",
+                "episodeId": 81341726,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3261,
+                "runtime": 3364,
+                "displayRuntime": 3364,
+                "watchedToEndOffset": 3143,
+                "autoplayable": true,
+                "title": "Episode 2",
+                "id": 81341726,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 529980,
+                        "end": 567939
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 82580
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYDQwqSgM4chmhvkPeC6gUXf4mSqiMLS_jsPslm_f0xuKEIT4nJHN5XuiHAuwdP7W6EWVooqp2oyxBJZ3FKED0YcLuBR5K8vcc4VtnTC-dk3QWb6ErQhZuSa.webp?r=d37"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYj4vdsgTV-zmJJ2rIJj51ac5zf4uvxqlDJ0qyjgG4q_13JKgQ0amEjIxBrAEg_POX7bbo3FQcYPX3V36HLyiNWaVLPFRMyxuP3rA2vTn-X5HMtJf9Ln9uJpgQ.webp?r=d37"
+                    }
+                ],
+                "seq": 2,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "In the aftermath of the tragic battle for Eoferwic, Sigtryggr is forced to make a painful choice. Edward learns of Aethelhelm's intrigues in Mercia.",
+                "episodeId": 81341727,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3116,
+                "runtime": 3218,
+                "displayRuntime": 3218,
+                "watchedToEndOffset": 3003,
+                "autoplayable": true,
+                "title": "Episode 3",
+                "id": 81341727,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 256380,
+                        "end": 294340
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 76820
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSVoGMcsPYK4qiHQ3xtlVin7UbqB0wDTZdDWChOx3AUtSIVzwVsY3nT6q2ELXs3RTyjJqIh-iC00ZR5j764s47CzIYMMW-K9zrRQMwK1L_1NTpYZVFHO_9IL.webp?r=d28"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb5ypAXRRyw5HpqMO0paaGEqXzxb4nZM-u0ue2JbxNSMmIEwAW-6k87fQd_VreQ_2wNCeoVzr0OwBij8Tr0OeMWXWotkG6hj3m6x7C_RmOvMBeITstpTP7L2QQ.webp?r=d28"
+                    }
+                ],
+                "seq": 3,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Rivals secretly advance competing successors upon the death of a Mercian ruler. Brida finds solace in the faith of her prisoner, Father Pyrlig.",
+                "episodeId": 81341728,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3160,
+                "runtime": 3263,
+                "displayRuntime": 3263,
+                "watchedToEndOffset": 3029,
+                "autoplayable": true,
+                "title": "Episode 4",
+                "id": 81341728,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 201540,
+                        "end": 239500
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 90020
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYZwJvR_MnFjuulq38vJHzS8oEQ_J7quLV4SYis017dNOK3RZkcBIWO6bOwPBbugE5L57DbeWJ2bLDSflkvvY-Tk1q029bkdpURMm-Sd2g-tAGiK0w-7B-cx.webp?r=8a0"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYDfJTeg96Y5thL5fZNBaF2e1002jBLfeilfxqpQGfgUKpvCk8v7SIJYOfulpnL181AMZsinGNsw_fViSvFekw3KS3eJ-ceIfn78uaXeF1ZglKYMKfVwkYlmAg.webp?r=8a0"
+                    }
+                ],
+                "seq": 4,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Aethelhelm's subterfuge successfully foments war tensions between Edward and Sigtryggr, but his thugs make a crucial mistake in attacking a pilgrimage.",
+                "episodeId": 81341729,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3331,
+                "runtime": 3434,
+                "displayRuntime": 3434,
+                "watchedToEndOffset": 3202,
+                "autoplayable": true,
+                "title": "Episode 5",
+                "id": 81341729,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 510500,
+                        "end": 548460
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 79700
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbdE0SWtHH-clMV4lOV8GBgMUh3y8cdvr0wq6buO2huW1Pnv2HA4VUErEreefFCpHs0DL22syiY8mzaTsK9mtj40KsAqGJVSEJofjtaifLIPEC9bqfK6HOh9.webp?r=831"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTrtlk0gZ6ElUl-ON3BzcFrYhdSU5Xufgsw0UY657JSf67nDqFap7ijFs7ahjYFMk8XTyooof4Pkk63pFNXPIDeiiBepRNQHVs3AhKryYv3hOlVn_brP6KQmIQ.webp?r=831"
+                    }
+                ],
+                "seq": 5,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "The forces of Edward and Sigtryggr march toward battle as Uhtred races to reveal the truth of Aethelhelm's scheming and avert a ruinous war.",
+                "episodeId": 81341730,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3095,
+                "runtime": 3198,
+                "displayRuntime": 3198,
+                "watchedToEndOffset": 2956,
+                "autoplayable": true,
+                "title": "Episode 6",
+                "id": 81341730,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 329180,
+                        "end": 367140
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 100220
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSfgLogv-b9UF-x5XXPeUVSTHaG3k5waXD2ZnJEyDSVqAsuKx-bcmTjOFZdKKAQkMs1YGLRkgED3xG92MPLhnT5cq8VKc1-WNzSl21XWgE_0lV-kkW206TPR.webp?r=dbc"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcpH58UdFmedojBkQ0OxZT0Lf1h5g24mWr2N2a9SrNhifer2DIZDZByHB1j8I1giXUW9x-REXhcgPz8dIOOMAnLdlJXHJCy-GY4JVR5YzWGrTG58kwiPGsT8Qg.webp?r=dbc"
+                    }
+                ],
+                "seq": 6,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Edward offers a role to Stiorra that would restore her to power. Aethelhelm meets with a Saxon enemy. Uhtred has a long-overdue reckoning with Brida.",
+                "episodeId": 81341731,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3232,
+                "runtime": 3337,
+                "displayRuntime": 3337,
+                "watchedToEndOffset": 3091,
+                "autoplayable": true,
+                "title": "Episode 7",
+                "id": 81341731,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 426500,
+                        "end": 464460
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 105300
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQYDjePmVnRL-74NkSTObHiVmc8N1ShviqzF2EFc0DzhjLwDQ45njxqh39aeKxr5N9ZP8X4ieqplvARg1dlP2Q2xhRiUOfs9MygE01xI4mTkr7G8_qHZrJx9.webp?r=53f"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYgR4qg75C2emKqYnVYYHPmTym0dMKLG6Lsq84devtIEfW2m6YGckP5PisSZptD8uUUAtpMjMCMXoHc3ase-qkE_RpAC2AaVG_ytfckG2YwGsu_AfW5VsHpM3A.webp?r=53f"
+                    }
+                ],
+                "seq": 7,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Upon learning of Aethelhelm's location, Uhtred proposes an audacious attack to rescue Aelfwynn and restore his birthright — but Edward is cautious.",
+                "episodeId": 81341732,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3133,
+                "runtime": 3238,
+                "displayRuntime": 3238,
+                "watchedToEndOffset": 2988,
+                "autoplayable": true,
+                "title": "Episode 8",
+                "id": 81341732,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 332820,
+                        "end": 370780
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 110220
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSUOeLK62OvQZz2fFRkOWLoewpi0xfrsxaEJnEV-PxpFKlRDvWK45RcZiunylB8PVkFIzuM1YZKn33wf0aKffz87pY86kG895r6JnHuTFiRILM3NyaxYF0aM.webp?r=c3d"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQgDiZHsO9CwKP6YBGtHksroFHWi57n-8lcfG6gIppHalyeOID1SPqo981QNB9grFKLNMUAYbxcJDDleoUuT9yYC8wzgzCF0QtzrdHxDmSKi8S-IweZqztoMog.webp?r=c3d"
+                    }
+                ],
+                "seq": 8,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Edward marches his troops north while Uhtred recruits a small force to infiltrate Bebbanburg. King Constantin arrives to meet his new bride, Aelfwynn.",
+                "episodeId": 81341733,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3224,
+                "runtime": 3325,
+                "displayRuntime": 3325,
+                "watchedToEndOffset": 3094,
+                "autoplayable": true,
+                "title": "Episode 9",
+                "id": 81341733,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 537340,
+                        "end": 575300
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 95020
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSKiE3116VOng7Q3hjphTfsbFvkD5WQvsHeR8l1vLxm9xOE-7RctvJZ_bd_MUT9XaA0ypn6dKx6NFeygKSvuRWGKif7Ii6fviUpy2fmXkTdHflN_UX1ESWbu.webp?r=678"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdz1mzA47NZxyYSt0HfDdQJXPOEXy17WLCOsG13yK6OBQzymKuh2UHZq9lTU9INgocQ1VvoHeWvCEy9E3DGmjPMgfrpK4G6xUALQgtuX_iCg0yitlSTs9IYgLA.webp?r=678"
+                    }
+                ],
+                "seq": 9,
+                "hiddenEpisodeNumbers": false
+            },
+            {
+                "start": 1646812800000,
+                "end": 1838140200000,
+                "synopsis": "Armies converge in an epic, final showdown that determines the fate of a king's dream for England — and Uhtred's hope of securing his family's future.",
+                "episodeId": 81341734,
+                "liveEvent": {
+                    "hasLiveEvent": false
+                },
+                "taglineMessages": {
+                    "tagline": "",
+                    "classification": "REGULAR"
+                },
+                "requiresAdultVerification": false,
+                "requiresPin": false,
+                "requiresPreReleasePin": false,
+                "creditsOffset": 3264,
+                "runtime": 3365,
+                "displayRuntime": 3365,
+                "watchedToEndOffset": 3121,
+                "autoplayable": true,
+                "title": "Episode 10",
+                "id": 81341734,
+                "bookmark": {
+                    "watchedDate": 0,
+                    "offset": -1
+                },
+                "skipMarkers": {
+                    "credit": {
+                        "start": 108420,
+                        "end": 146380
+                    },
+                    "recap": {
+                        "start": 5020,
+                        "end": 102940
+                    },
+                    "content": []
+                },
+                "hd": true,
+                "thumbs": [
+                    {
+                        "w": 350,
+                        "h": 197,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXNot2k9cM-5o0Y0jovBjhFIM_xgDZLrK_inXOmc4M_lJETZGkkYxu4ULDViIJY2jbnx1nfvjvY19va415Xarm5xY77Z31W9JcP5ry6b3UJ8f0TARFyQ_tPu.webp?r=c47"
+                    }
+                ],
+                "stills": [
+                    {
+                        "w": 1920,
+                        "h": 1080,
+                        "url": "https://occ-0-3215-3662.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbCLRD87CqHtgMrF6hqlo4PSSX-a5pSsiJ7lyDGpfylkWuiY00UGUZGZ1P9iSwVoo1G4nO0cyQI9_wNrBjlMpLoPYHwoeJxPHRpQINJ46B8qiE3U0YHXlSPD7Q.webp?r=c47"
+                    }
+                ],
+                "seq": 10,
+                "hiddenEpisodeNumbers": false
+            }
+        ]
+    }
+]
