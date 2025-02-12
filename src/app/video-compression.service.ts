@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { createFFmpeg, fetchFile } from '@ffmpeg/ffmpeg';
+import { pipeline } from '@xenova/transformers';
 
 function sanitizeFileName(fileName: string): string {
   return fileName.replace(/[^\w\s.-]/g, '_'); 
@@ -30,11 +31,17 @@ export class VideoCompressionService {
 
       await this.ffmpeg.run(
         '-i', fileName,
-        '-vf', 'scale=1920:1080', 
-        '-b:v', '500k', 
+        '-vf', 'scale=-2:1080', 
+        '-c:v', 'libx264',       
+        '-profile:v', 'high',   
+        '-crf', '18',        
         '-preset', 'ultrafast', 
+        '-c:a', 'aac',         
+        '-b:a', '192k',          
+        '-ac', '2',         
+        '-movflags', '+faststart',
         outputFileName
-      );
+      );      
 
       // await this.ffmpeg.run(
       //   '-i', fileName,
@@ -53,6 +60,36 @@ export class VideoCompressionService {
       return blob;
     } catch (error) {
       console.error('Error during video compression:', error);
+      return null;
+    }
+  }
+
+  async extractAudio(file: File): Promise<Blob | null> {
+    try {
+      if (!this.ffmpeg.isLoaded()) {
+        await this.ffmpeg.load();
+      }
+
+      const fileName = sanitizeFileName(file.name);
+      const fileData = await fetchFile(file);
+      this.ffmpeg.FS('writeFile', fileName, fileData);
+
+      const outputFileName = 'audio_' + fileName.split('.')[0] + '.wav'; // Save audio as WAV file
+      await this.ffmpeg.run(
+        '-i', fileName,
+        '-vn',  // No video
+        '-acodec', 'pcm_s16le', // Use WAV format
+        '-ar', '16000', // Sample rate for speech recognition
+        '-ac', '1', // Mono audio
+        outputFileName
+      );
+
+      const audioFile = this.ffmpeg.FS('readFile', outputFileName);
+      const audioBlob = new Blob([audioFile.buffer], { type: 'audio/wav' });
+
+      return audioBlob;
+    } catch (error) {
+      console.error('Error during audio extraction:', error);
       return null;
     }
   }
